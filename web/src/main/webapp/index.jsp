@@ -14,6 +14,11 @@
   <h1>Super Simple Example Web Page</h1>
   <p>
     This is a very simple example web page on a JSP.
+	This is the code pushed form GIT
   </p>
+  <h2>
+	This is the code pushed from GIT
+	</h2>
+
 </body>
 </html>
